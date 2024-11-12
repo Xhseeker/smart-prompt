@@ -1,20 +1,23 @@
-# 项目名称
+# “听话的”提示词构建教程
 
-这里写项目的各类介绍信息，例如：
+## 项目背景
 
-- 项目背景、动机等简介内容
-- 项目内容目录
-- ....
+本教程面向不熟悉LLM的作用机制，但想要构建让LLM“听话”，能够输出符合自己要求内容的提示词的初学者。
+本教程旨在帮助初学者快速上手提示词构建，并掌握提示词构建的技巧。
 
 ## Roadmap
 
-*注：说明当前项目的规划，并将每个任务通过 Issue 形式进行对外进行发布。*
+- [x] “语义压缩”类提示词
+- [x] “思维链”类提示词
+- [x] “小样本”类提示词
+- [x] 元提示词构建提示词
+- [ ] 针对文生图任务的提示词构建
 
 ## 参与贡献
 
-- 如果你想参与到项目中来欢迎查看项目的 [Issue]() 查看没有被分配的任务。
-- 如果你发现了一些问题，欢迎在 [Issue]() 中进行反馈🐛。
-- 如果你对本项目感兴趣想要参与进来可以通过 [Discussion]() 进行交流💬。
+- 如果你想参与到项目中来欢迎查看项目的 [Issue](https://github.com/anarchysaiko/awesome-llm-prompts-tutorial/issues) 查看没有被分配的任务。
+- 如果你发现了一些问题，欢迎在 [Issue](https://github.com/anarchysaiko/awesome-llm-prompts-tutorial/issues) 中进行反馈🐛。
+- 如果你对本项目感兴趣想要参与进来可以通过 [Discussion](https://github.com/anarchysaiko/awesome-llm-prompts-tutorial/discussions) 进行交流💬。
 
 如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看 [Datawhale 贡献指南](https://github.com/datawhalechina/DOPMC#%E4%B8%BA-datawhale-%E5%81%9A%E5%87%BA%E8%B4%A1%E7%8C%AE)。
 
@@ -22,11 +25,7 @@
 
 | 姓名 | 职责 | 简介 |
 | :----| :---- | :---- |
-| 小明 | 项目负责人 | 小明 |
-| 小红 | 第1章贡献者 | 小明的朋友 |
-| 小强 | 第2章贡献者 | 小明的朋友 |
-
-*注：表头可自定义，但必须在名单中标明项目负责人*
+| Anarchy | 项目负责人 | 公共管理专业的llm开源项目构建者 |
 
 ## 关注我们
 
