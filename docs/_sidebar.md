@@ -4,3 +4,6 @@
   - [1.3 写好提示词的四大要素](chapter1/chapter1.md#13-写好提示词的四大要素)
   - [1.4 总结](chapter1/chapter1.md#14-总结)
 - [第2章 语义压缩类提示词](chapter2/chapter2.md)
+  - [2.1 概念界定和原理](chapter2/chapter2.md#21-概念界定和原理)
+  - [2.2 语义压缩类提示词的分类](chapter2/chapter2.md#22-语义压缩类提示词的分类)
+  - [2.3 总结](chapter2/chapter2.md#23-总结)
