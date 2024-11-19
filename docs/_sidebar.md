@@ -7,3 +7,5 @@
   - [2.1 概念界定和原理](chapter2/chapter2.md#21-概念界定和原理)
   - [2.2 语义压缩类提示词的分类](chapter2/chapter2.md#22-语义压缩类提示词的分类)
   - [2.3 总结](chapter2/chapter2.md#23-总结)
+- [第3章 思维链类提示词](chapter3/chapter3.md)
+  - [3.1 概念界定和原理](chapter3/chapter3.md#31-概念界定和原理)
